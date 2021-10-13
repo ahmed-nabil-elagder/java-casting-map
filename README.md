@@ -48,99 +48,99 @@ Primitive Data Types - Values Range
 
 [1]: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
-[01]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingByteTo.java#L20-L23 "BY Default - No casting required"
-[02]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingByteTo.java#L25-L28 "BY Default - No casting required"
-[03]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingByteTo.java#L30-L33 "BY Default - No casting required"
-[04]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingByteTo.java#L35-L38 "BY Default - No casting required"
-[05]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingByteTo.java#L40-L43 "BY Default - No casting required"
-[06]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingByteTo.java#L45-L48
-[07]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingByteTo.java#L50-L53
-[08]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingByteTo.java#L55-L57
-[09]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingByteTo.java#L59-L61
+[01]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ByteCasting.java#L20-L23 "BY Default - No casting required"
+[02]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ByteCasting.java#L25-L28 "BY Default - No casting required"
+[03]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ByteCasting.java#L30-L33 "BY Default - No casting required"
+[04]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ByteCasting.java#L35-L38 "BY Default - No casting required"
+[05]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ByteCasting.java#L40-L43 "BY Default - No casting required"
+[06]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ByteCasting.java#L45-L48
+[07]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ByteCasting.java#L50-L53
+[08]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ByteCasting.java#L55-L57
+[09]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ByteCasting.java#L59-L61
 
-[10]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingShortTo.java#L20-L22
-[12]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingShortTo.java#L24-L27 "BY Default - No casting required"
-[13]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingShortTo.java#L29-L32 "BY Default - No casting required"
-[14]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingShortTo.java#L34-L37 "BY Default - No casting required"
-[15]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingShortTo.java#L39-L42 "BY Default - No casting required"
-[16]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingShortTo.java#L44-L47
-[17]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingShortTo.java#L49-L52
-[18]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingShortTo.java#L54-L56
-[19]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingShortTo.java#L58-L60
+[10]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ShortCasting.java#L20-L22
+[12]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ShortCasting.java#L24-L27 "BY Default - No casting required"
+[13]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ShortCasting.java#L29-L32 "BY Default - No casting required"
+[14]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ShortCasting.java#L34-L37 "BY Default - No casting required"
+[15]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ShortCasting.java#L39-L42 "BY Default - No casting required"
+[16]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ShortCasting.java#L44-L47
+[17]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ShortCasting.java#L49-L52
+[18]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ShortCasting.java#L54-L56
+[19]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/ShortCasting.java#L58-L60
 
-[20]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingIntTo.java#L20-L23
-[21]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingIntTo.java#L25-L27
-[23]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingIntTo.java#L29-L32 "BY Default - No casting required"
-[24]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingIntTo.java#L34-L37 "BY Default - No casting required"
-[25]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingIntTo.java#L39-L42 "BY Default - No casting required"
-[26]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingIntTo.java#L44-L47
-[27]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingIntTo.java#L49-L52
-[28]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingIntTo.java#L54-L56
-[29]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingIntTo.java#L58-L60
-
-
-[30]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingLongTo.java#L20-L23
-[31]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingLongTo.java#L25-L27
-[32]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingLongTo.java#L29-L32
-[34]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingLongTo.java#L34-L37 "BY Default - No casting required"
-[35]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingLongTo.java#L39-L42 "BY Default - No casting required"
-[36]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingLongTo.java#L44-L47
-[37]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingLongTo.java#L49-L52
-[38]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingLongTo.java#L54-L56
-[39]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingLongTo.java#L58-L60
+[20]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/IntCasting.java#L20-L23
+[21]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/IntCasting.java#L25-L27
+[23]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/IntCasting.java#L29-L32 "BY Default - No casting required"
+[24]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/IntCasting.java#L34-L37 "BY Default - No casting required"
+[25]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/IntCasting.java#L39-L42 "BY Default - No casting required"
+[26]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/IntCasting.java#L44-L47
+[27]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/IntCasting.java#L49-L52
+[28]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/IntCasting.java#L54-L56
+[29]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/IntCasting.java#L58-L60
 
 
-
-[40]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingFloatTo.java#L20-L22
-[41]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingFloatTo.java#L24-L26
-[42]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingFloatTo.java#L28-L30
-[43]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingFloatTo.java#L32-L34
-[45]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingFloatTo.java#L36-L39 "BY Default - No casting required"
-[46]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingFloatTo.java#L41-L45
-[47]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingFloatTo.java#L46-L49
-[48]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingFloatTo.java#L51-L53
-[49]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingFloatTo.java#L55-L57
-
-
-[50]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingDoubleTo.java#L20-L22
-[51]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingDoubleTo.java#L24-L26
-[52]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingDoubleTo.java#L28-L30
-[53]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingDoubleTo.java#L32-L34
-[54]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingDoubleTo.java#L36-L38
-[56]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingDoubleTo.java#L40-L43
-[57]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingDoubleTo.java#L45-L48
-[58]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingDoubleTo.java#L50-L52
-[59]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingDoubleTo.java#L54-L56
-
-[60]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingBooleanTo.java#L20-L22 "boolean - Can NOT be casted to byte/short/int/long/float/double/char"
-[68]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingBooleanTo.java#L24-L27
-[69]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingBooleanTo.java#L29-L32
+[30]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/LongCasting.java#L20-L23
+[31]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/LongCasting.java#L25-L27
+[32]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/LongCasting.java#L29-L32
+[34]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/LongCasting.java#L34-L37 "BY Default - No casting required"
+[35]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/LongCasting.java#L39-L42 "BY Default - No casting required"
+[36]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/LongCasting.java#L44-L47
+[37]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/LongCasting.java#L49-L52
+[38]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/LongCasting.java#L54-L56
+[39]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/LongCasting.java#L58-L60
 
 
-[70]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L20-L23
-[71]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L25-L28
-[72]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L30-L34
-[73]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L36-L40
-[74]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L42-L46
-[75]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L48-L52
-[76]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L54-L57
-[78]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L59-L61
-[79]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L63-L65
 
-[720]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L75-L78
-[721]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L80-L83
-[722]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L85-L88
-[723]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L90-L93
-[724]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L95-L98
-[725]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingCharTo.java#L100-L103
+[40]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/FloatCasting.java#L20-L22
+[41]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/FloatCasting.java#L24-L26
+[42]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/FloatCasting.java#L28-L30
+[43]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/FloatCasting.java#L32-L34
+[45]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/FloatCasting.java#L36-L39 "BY Default - No casting required"
+[46]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/FloatCasting.java#L41-L45
+[47]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/FloatCasting.java#L46-L49
+[48]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/FloatCasting.java#L51-L53
+[49]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/FloatCasting.java#L55-L57
 
 
-[80]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingStringTo.java#L19-L22
-[81]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingStringTo.java#L24-L27
-[82]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingStringTo.java#L29-L32
-[83]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingStringTo.java#L34-L37
-[84]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingStringTo.java#L39-L42
-[85]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingStringTo.java#L44-L47
-[86]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingStringTo.java#L49-L55
-[87]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/castingMap/CastingStringTo.java#L57-L60
+[50]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/DoubleCasting.java#L20-L22
+[51]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/DoubleCasting.java#L24-L26
+[52]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/DoubleCasting.java#L28-L30
+[53]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/DoubleCasting.java#L32-L34
+[54]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/DoubleCasting.java#L36-L38
+[56]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/DoubleCasting.java#L40-L43
+[57]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/DoubleCasting.java#L45-L48
+[58]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/DoubleCasting.java#L50-L52
+[59]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/DoubleCasting.java#L54-L56
+
+[60]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/BooleanCasting.java#L20-L22 "boolean - Can NOT be casted to byte/short/int/long/float/double/char"
+[68]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/BooleanCasting.java#L24-L27
+[69]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/BooleanCasting.java#L29-L32
+
+
+[70]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L20-L23
+[71]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L25-L28
+[72]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L30-L34
+[73]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L36-L40
+[74]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L42-L46
+[75]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L48-L52
+[76]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L54-L57
+[78]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L59-L61
+[79]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L63-L65
+
+[720]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L75-L78
+[721]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L80-L83
+[722]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L85-L88
+[723]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L90-L93
+[724]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L95-L98
+[725]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/CharCasting.java#L100-L103
+
+
+[80]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/StringCasting.java#L19-L22
+[81]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/StringCasting.java#L24-L27
+[82]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/StringCasting.java#L29-L32
+[83]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/StringCasting.java#L34-L37
+[84]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/StringCasting.java#L39-L42
+[85]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/StringCasting.java#L44-L47
+[86]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/StringCasting.java#L49-L55
+[87]: https://github.com/ahmednabil88/java-casting-map/blob/master/src/main/java/java_casting_map/StringCasting.java#L57-L60
 
