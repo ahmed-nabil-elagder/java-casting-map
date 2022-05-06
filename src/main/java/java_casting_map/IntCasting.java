@@ -18,7 +18,7 @@ public class IntCasting {
 
 		int intVar = 65; // any value
 		LOGGER.info("===========================");
-		LOGGER.info("intVar = " + intVar);
+		LOGGER.info("intVar = {}", intVar);
 		LOGGER.info("===========================");
 
 		// casting int to byte

@@ -18,7 +18,7 @@ public class CharCasting {
 
 		char charVar = 'A';
 		LOGGER.info("===========================");
-		LOGGER.info("charVar = " + charVar);
+		LOGGER.info("charVar = {}", charVar);
 		LOGGER.info("===========================");
 
 		// casting char to byte	
@@ -73,7 +73,7 @@ public class CharCasting {
 		
 		char charDigitVar = '9';
 		LOGGER.info("===========================");
-		LOGGER.info("charDigitVar = " + charDigitVar);
+		LOGGER.info("charDigitVar = {}", charDigitVar);
 		LOGGER.info("===========================");
 		
 		// casting char to byte	

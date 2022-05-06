@@ -18,7 +18,7 @@ public class ByteCasting {
 
 		byte byteVar = 65; // any value
 		LOGGER.info("===========================");
-		LOGGER.info("byteVar = " + byteVar);
+		LOGGER.info("byteVar = {}", byteVar);
 		LOGGER.info("===========================");
 
 		// casting byte to short

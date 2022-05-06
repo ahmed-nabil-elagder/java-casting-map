@@ -18,7 +18,7 @@ public class FloatCasting {
 
 		float floatVar = 65; // any value
 		LOGGER.info("===========================");
-		LOGGER.info("floatVar = " + floatVar);
+		LOGGER.info("floatVar = {}", floatVar);
 		LOGGER.info("===========================");
 
 		// casting float to byte		

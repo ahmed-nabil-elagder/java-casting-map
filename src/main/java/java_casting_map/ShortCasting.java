@@ -18,7 +18,7 @@ public class ShortCasting {
 
 		short shortVar = 65; // any value
 		LOGGER.info("===========================");
-		LOGGER.info("shortVar = " + shortVar);
+		LOGGER.info("shortVar = {}", shortVar);
 		LOGGER.info("===========================");
 
 		// casting short to byte

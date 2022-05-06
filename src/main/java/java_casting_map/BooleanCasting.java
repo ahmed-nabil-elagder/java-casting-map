@@ -18,7 +18,7 @@ public class BooleanCasting {
 
 		boolean booleanVar = true; // true or false
 		LOGGER.info("===========================");
-		LOGGER.info("booleanVar = " + booleanVar);
+		LOGGER.info("booleanVar = {}", booleanVar);
 		LOGGER.info("===========================");
 
 		// casting boolean to byte/short/int/long/float/double/char

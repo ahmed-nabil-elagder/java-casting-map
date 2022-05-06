@@ -18,7 +18,7 @@ public class DoubleCasting {
 
 		double doubleVar = 65; // any value
 		LOGGER.info("===========================");
-		LOGGER.info("doubleVar = " + doubleVar);
+		LOGGER.info("doubleVar = {}", doubleVar);
 		LOGGER.info("===========================");
 
 		// casting double to byte		

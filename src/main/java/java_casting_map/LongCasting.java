@@ -18,7 +18,7 @@ public class LongCasting {
 
 		long longVar = 65; // any value
 		LOGGER.info("===========================");
-		LOGGER.info("longVar = " + longVar);
+		LOGGER.info("longVar = {}", longVar);
 		LOGGER.info("===========================");
 
 		// casting long to byte
