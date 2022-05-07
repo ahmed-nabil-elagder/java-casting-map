@@ -3,6 +3,8 @@ package java_casting_map;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import static java_casting_map.Constants.CASTING_LOG_MSG;
+
 /**
  * This class demonstrate how to cast String data type to others ones
  * 
@@ -23,32 +25,32 @@ public class StringCasting {
 		// casting String to byte	
 		String stringVar = "123"; // if stringVar not equal numeric value, you will face NumberFormatException
 		byte byteVar = Byte.parseByte(stringVar);
-		LOGGER.info(Helper.getCastingMessage(FROM, "byte") + "\t\t" + "byteVar = " + byteVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "byte", "byteVar", byteVar);
 
 		// casting String to short
 		stringVar = "123"; // if stringVar not equal numeric value, you will face NumberFormatException
 		short shortVar = Short.parseShort(stringVar);
-		LOGGER.info(Helper.getCastingMessage(FROM, "short") + "\t\t" + "shortVar = " + shortVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "shor", "shortVar", shortVar);
 
 		// casting String to int		
 		stringVar = "123"; // if stringVar not equal numeric value, you will face NumberFormatException
 		int intVar = Integer.parseInt(stringVar);
-		LOGGER.info(Helper.getCastingMessage(FROM, "int") + "\t\t" + "intVar = " + intVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "int", "intVar", intVar);
 
 		// casting String to long		
 		stringVar = "123"; // if stringVar not equal numeric value, you will face NumberFormatException
 		long longVar = Long.parseLong(stringVar);
-		LOGGER.info(Helper.getCastingMessage(FROM, "long") + "\t\t" + "longVar = " + longVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "long", "longVar", longVar);
 
 		// casting String to float
 		stringVar = "123.45"; // if stringVar not equal numeric value, you will face NumberFormatException
 		float floatVar = Float.parseFloat(stringVar);
-		LOGGER.info(Helper.getCastingMessage(FROM, "float") + "\t\t" + "floatVar = " + floatVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "float", "floatVar", floatVar);
 
 		// casting String to double
 		stringVar = "123.67"; // if stringVar not equal numeric value, you will face NumberFormatException
 		double doubleVar = Double.parseDouble(stringVar);
-		LOGGER.info(Helper.getCastingMessage(FROM, "double") + "\t" + "doubleVar = " + doubleVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "double", "doubleVar", doubleVar);
 
 		// casting String to boolean
 		stringVar = "true"; 
@@ -56,12 +58,12 @@ public class StringCasting {
 		// if the string value not null and is equal, ignoring case, to the string "true",
 		// else return false
 		boolean booleanVar = Boolean.parseBoolean(stringVar);
-		LOGGER.info(Helper.getCastingMessage(FROM, "boolean") + "\t" + "booleanVar = " + booleanVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "boolean", "booleanVar", booleanVar);
 
 		// casting String to char
 		stringVar = "A";
 		char charVar = stringVar.charAt(0);
-		LOGGER.info(Helper.getCastingMessage(FROM, "char") + "\t\t" + "charVar = " + charVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "char", "charVar", charVar);
 
 	}
 }

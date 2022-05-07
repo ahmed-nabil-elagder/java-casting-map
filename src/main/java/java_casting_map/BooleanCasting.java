@@ -3,6 +3,8 @@ package java_casting_map;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import static java_casting_map.Constants.CASTING_LOG_MSG;
+
 /**
  * This class demonstrate how to cast boolean primitive data type to others ones
  * 
@@ -28,12 +30,12 @@ public class BooleanCasting {
 		// casting boolean to String
 		// If the specified boolean is true, then the string "true" will be returned, otherwise the string "false" will be returned
 		String stringVar = Boolean.toString(booleanVar);
-		LOGGER.info(Helper.getCastingMessage(FROM, "String") + "\t" + "stringVar = " + stringVar);
-		
+		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
+
 		// casting boolean to String - ByConcatenation
 		// If the specified boolean is true, then the string "true" will be returned, otherwise the string "false" will be returned
 		stringVar = booleanVar + "";
-		LOGGER.info(Helper.getCastingMessage(FROM, "String") + "\t" + "stringVar = " + stringVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
 
 	}
 }
