@@ -24,7 +24,6 @@ public class LongCasting {
 		LOGGER.info("===========================");
 
 		// casting long to byte
-		
 		byte byteVar = (byte) longVar;
 		LOGGER.info(CASTING_LOG_MSG, FROM, "byte", "byteVar", byteVar);
 
@@ -33,7 +32,6 @@ public class LongCasting {
 		LOGGER.info(CASTING_LOG_MSG, FROM, "short", "shortVar", shortVar);
 
 		// casting long to int
-		
 		int intVar = (int) longVar;
 		LOGGER.info(CASTING_LOG_MSG, FROM, "int", "intVar", intVar);
 
