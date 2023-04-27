@@ -61,5 +61,9 @@ public class DoubleCasting {
 		stringVar = doubleVar + "";
 		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
 
+		// casting double to String - By String.valueOf(double d) [internally will call Double.toString(double d)]
+		stringVar = String.valueOf(doubleVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
+
 	}
 }

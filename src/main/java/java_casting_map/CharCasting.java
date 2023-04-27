@@ -70,6 +70,10 @@ public class CharCasting {
         stringVar = charVar + "";
         LOGGER.info(CASTING_LOG_MSG, FROM, "string", "stringVar", stringVar);
 
+        // casting char to String - By String.valueOf(char c) [internally has a conditional check to return a new String]
+        stringVar = String.valueOf(charVar);
+        LOGGER.info(CASTING_LOG_MSG, FROM, "string", "stringVar", stringVar);
+
 
         LOGGER.info("");
 
@@ -79,32 +83,32 @@ public class CharCasting {
         LOGGER.info("===========================");
 
         // casting char to byte
-        // It will print corresponding (Digit) Number
+        // It will print the corresponding (Digit) Number
         byte byteDigitVar = (byte) (charDigitVar - '0');
         LOGGER.info(CASTING_LOG_MSG, FROM, "byte", "byteDigitVar", byteDigitVar);
 
         // casting char to short
-        // It will print corresponding (Digit) Number
+        // It will print the corresponding (Digit) Number
         short shortDigitVar = (short) (charDigitVar - '0');
         LOGGER.info(CASTING_LOG_MSG, FROM, "short", "shortDigitVar", shortDigitVar);
 
         // casting char to int
-        // It will print corresponding (Digit) Number
+        // It will print the corresponding (Digit) Number
         int intDigitVar = (charDigitVar - '0');
         LOGGER.info(CASTING_LOG_MSG, FROM, "int", "intDigitVar", intDigitVar);
 
         // casting char to long
-        // It will print corresponding (Digit) Number
+        // It will print the corresponding (Digit) Number
         long longDigitVar = (charDigitVar - '0');
         LOGGER.info(CASTING_LOG_MSG, FROM, "long", "longDigitVar", longDigitVar);
 
         // casting char to float
-        // It will print corresponding (Digit) Number
+        // It will print the corresponding (Digit) Number
         float floatDigitVar = (charDigitVar - '0');
         LOGGER.info(CASTING_LOG_MSG, FROM, "float", "floatDigitVar", floatDigitVar);
 
         // casting char to double
-        // It will print corresponding (Digit) Number
+        // It will print the corresponding (Digit) Number
         double doubleDigitVar = (charDigitVar - '0');
         LOGGER.info(CASTING_LOG_MSG, FROM, "double", "doubleDigitVar", doubleDigitVar);
 

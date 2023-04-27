@@ -66,5 +66,9 @@ public class ByteCasting {
 		stringVar = byteVar + "";
 		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
 
+		// casting byte to String - By String.valueOf(int i) [internally will call Integer.toString(int i)]
+		stringVar = String.valueOf(byteVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
+
 	}
 }

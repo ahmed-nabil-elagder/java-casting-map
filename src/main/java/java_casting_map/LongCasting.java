@@ -63,5 +63,9 @@ public class LongCasting {
 		stringVar = longVar + "";
 		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
 
+		// casting long to String - By String.valueOf(long l) [internally will call Long.toString(long l)]
+		stringVar = String.valueOf(longVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
+
 	}
 }

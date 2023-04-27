@@ -65,5 +65,9 @@ public class ShortCasting {
 		stringVar = shortVar + "";
 		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
 
+		// casting short to String - By String.valueOf(int i) [internally will call Integer.toString(int i)]
+		stringVar = String.valueOf(shortVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
+
 	}
 }

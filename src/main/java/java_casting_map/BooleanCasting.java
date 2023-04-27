@@ -37,5 +37,10 @@ public class BooleanCasting {
 		stringVar = booleanVar + "";
 		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
 
+		// casting boolean to String - By String.valueOf(boolean b) [internally has a conditional check]
+		// If the specified boolean is true, then the string "true" will be returned, otherwise the string "false" will be returned
+		stringVar = String.valueOf(booleanVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
+
 	}
 }

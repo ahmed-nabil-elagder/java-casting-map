@@ -62,5 +62,9 @@ public class FloatCasting {
 		stringVar = floatVar + "";
 		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
 
+		// casting float to String - By String.valueOf(float f) [internally will call Float.toString(float f)]
+		stringVar = String.valueOf(floatVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
+
 	}
 }

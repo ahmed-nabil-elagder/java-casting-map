@@ -65,5 +65,9 @@ public class IntCasting {
 		stringVar = intVar + "";
 		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
 
+		// casting int to String - By String.valueOf(int i) [internally will call Integer.toString(int i)]
+		stringVar = String.valueOf(intVar);
+		LOGGER.info(CASTING_LOG_MSG, FROM, "String", "stringVar", stringVar);
+
 	}
 }
