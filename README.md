@@ -1,7 +1,7 @@
 # java-casting-map
 Its an easy MAP to illiterate, how to cast a java primitive data type to another one by examples  
 [**Supported Java Primitive Data Types**][1]  
-`byte`, `short`, `int`, `long`, `float`, `double`, `boolean`, `char`, `String`  
+`byte`, `short`, `int`, `long`, `float`, `double`, `boolean`, `char` in addition to `String`.  
 You can click on any cell of below table map to show the code example.
 
 
